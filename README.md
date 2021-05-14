@@ -73,3 +73,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
   Nest is [MIT licensed](LICENSE).
+
+## Nest-cli基本指令
+
+- 快速生成组件 nest [command] [...options]
+- 例: $ nest generate service users OR $ nest g s users
+- 具体组件类型查询文档
+

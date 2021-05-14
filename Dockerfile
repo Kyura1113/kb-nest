@@ -1,4 +1,4 @@
-FROM node: 14.17.0
+FROM node:14.17.0
 
 # 容器中创建一个目录
 RUN mkdir -p /user/src/node/nestjs

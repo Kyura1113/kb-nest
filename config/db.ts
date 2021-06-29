@@ -1,10 +1,10 @@
 const productConfig = {
     mysql: {
         port: 3306,
-        host: '114.116.240.89',
-        user: 'root',
-        password: 'qweqwe123',
-        database: 'gtmdmeo',
+        host: '',
+        user: '',
+        password: '',
+        database: '',
         connectionLimit: 10
     },
 }
